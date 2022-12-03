@@ -1,3 +1,5 @@
 # Heroes SPA
 
-Aplicación del curso del [curso de react ](https://www.udemy.com/course/react-cero-experto/)
+Aplicación del [curso de react ](https://www.udemy.com/course/react-cero-experto/)
+
+![app](assets/app.png)
